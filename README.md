@@ -1,7 +1,7 @@
 # Drug Recommendation System
 
 ## Overview
-Our Drug Recommendation System is an innovative tool designed to enhance the efficiency and accuracy of prescribing medications based on patient descriptions. Leveraging cutting-edge Natural Language Processing (NLP) techniques, the system analyzes patient inputs to accurately identify medical conditions and recommend appropriate drug treatments.
+Drug Recommendation System is an innovative tool designed to enhance the efficiency and accuracy of prescribing medications based on patient descriptions. Leveraging cutting-edge Natural Language Processing (NLP) techniques, the system analyzes patient inputs to accurately identify medical conditions and recommend appropriate drug treatments.
 
 ![Example Usage](https://github.com/lahirumenik/Drug-Recommendation-System/assets/115687865/0d2f943c-efaf-43a1-89b8-45e59836ce3e)
 
