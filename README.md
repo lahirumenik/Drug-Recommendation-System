@@ -1,4 +1,4 @@
-# Drug Recommendation System
+# Smart Prescription Assistant using Patient'feedback
 
 ## Overview
 Drug Recommendation System is an innovative tool designed to enhance the efficiency and accuracy of prescribing medications based on patient descriptions. Leveraging cutting-edge Natural Language Processing (NLP) techniques, the system analyzes patient inputs to accurately identify medical conditions and recommend appropriate drug treatments.
